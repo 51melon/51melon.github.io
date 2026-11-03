@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chigua51-static-20261031.yumidctacta.chatgpt.site/sitemap.xml
